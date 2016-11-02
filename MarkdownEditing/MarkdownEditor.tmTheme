@@ -646,7 +646,7 @@
                 <key>background</key>
                 <string>#E8E8E8</string>
                 <key>foreground</key>
-                <string>#AAAAAA</string>
+                <string>#FF3333</string>
             </dict>
         </dict>
         <dict>
@@ -822,6 +822,8 @@
             <string>markup.raw.inline.markdown</string>
             <key>settings</key>
             <dict>
+                <key>foreground</key>
+                <string>#333333</string>
                 <key>background</key>
                 <string>#FFFFCC</string>
             </dict>
